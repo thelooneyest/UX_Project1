@@ -1,0 +1,85 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6CEA5BAE-66D9-4F32-B65D-A4F6F9F42DBE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2115,
+  "do_objectID": "EEC21827-E065-4BCA-9C31-FEC5A86415A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C88E708C-9C29-4FBF-9FFC-9F45A4425E33",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3C36976-2A5F-4E4A-A1B1-FBCC8EF51900",
+    "height": 36,
+    "width": 72,
+    "x": -200,
+    "y": 355
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1CC3E7D6-3ED9-41C5-A0D8-B476D67F3E0E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "074A08E2-9D8C-4424-93D9-06C9E4D014BF"
+    },
+    {
+      "class": "text",
+      "id": "579ED2A0-6E7C-4587-9139-3B2911546895"
+    }
+  ],
+  "name": "molecules/back",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C22CEF8-6A53-449B-B591-89EAF6ED6443",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A14FBF7-C739-49F2-85F3-2890408314D7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "05707A72-7D24-4AAC-A69C-F21853A4F7B1",
+    "guides": [
+    ]
+  }
+}

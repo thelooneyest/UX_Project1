@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "0271FD8B-4C93-4287-BEC1-35F20F30B957",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD9FA8E2-FA3B-4B9A-849D-F7C22669764E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C56EB33-2D9D-4351-8A53-CB04963EF0D2",
+    "height": 36,
+    "width": 250,
+    "x": 62,
+    "y": 235
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecules/dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09C14EF7-8ADE-49CA-9821-EB1B88AC161C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E18A2146-771B-4372-A75A-647851BAB781",
+  "verticalSpacing": 0
+}

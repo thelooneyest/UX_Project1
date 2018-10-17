@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5D48EE08-B327-49E8-94D9-8C85E4DE41E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C2F287B-E152-4ACF-A160-34FC997175D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA4EFD5D-D51F-4794-8B6B-4929797A070C",
+    "height": 627,
+    "width": 304,
+    "x": 34,
+    "y": 31
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/email",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2471F94B-7C41-4BF0-AA56-3AA7C6C68D65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A7AA96F9-CA1D-4F2F-9AEC-47B8FC4084DA",
+  "verticalSpacing": 0
+}

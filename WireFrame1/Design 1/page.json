@@ -1,0 +1,119 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "BF70F6D9-18E5-4930-9850-1BA1E2308D68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -537,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F2D5A443-321E-4220-8194-7486FCAF5565"
+    },
+    {
+      "class": "artboard",
+      "id": "36F195E2-74F6-4F6D-AC5E-3A4CA85253F7"
+    },
+    {
+      "class": "artboard",
+      "id": "A3AD2D38-35D5-48C9-832C-BB58A73C54A2"
+    },
+    {
+      "class": "artboard",
+      "id": "A9CE398F-6F62-4BF5-AB14-81809CA4AA67"
+    },
+    {
+      "class": "artboard",
+      "id": "55A78570-4416-4D20-8289-B5374D7BC605"
+    },
+    {
+      "class": "artboard",
+      "id": "6C268BEE-C7E5-49B1-9CBF-EFA5D10926A4"
+    },
+    {
+      "class": "artboard",
+      "id": "E974061B-9790-4672-A44E-8E2F89328A0C"
+    },
+    {
+      "class": "artboard",
+      "id": "61E62DE4-6D66-44C8-9C7C-A6194254C273"
+    },
+    {
+      "class": "artboard",
+      "id": "822D3AD0-1555-4EBB-A2E9-B4EBA2849BCA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Design 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -473,
+    "guides": [
+    ]
+  }
+}

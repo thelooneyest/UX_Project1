@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "310328ED-3706-450B-AE71-7A93872E464C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4478A61-E963-408C-96A6-64ACFE5D447B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "399DDC24-1FCB-4ACE-BCA2-FA4A28C056D6",
+    "height": 60,
+    "width": 250,
+    "x": 62,
+    "y": 305
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecules/password",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "283C18C5-0675-47F2-9383-DBAC86886760",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A655DC5E-D6CB-48D6-A4F7-C09D2C3D891A",
+  "verticalSpacing": 0
+}

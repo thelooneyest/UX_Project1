@@ -1,0 +1,85 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "42DA0FC2-503B-4C0C-AEC3-2C51377B79C3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1615,
+  "do_objectID": "ADD73C82-154B-4E12-9400-5B9D8A8E4654",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B39D434-85B7-4D8E-BE1E-9E51BD2140F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C538226D-9F96-45D7-87C8-456117C4644F",
+    "height": 60,
+    "width": 250,
+    "x": 2581,
+    "y": -109
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7085B939-2DB6-43FE-8448-A769816CB375",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "63498E14-E2B6-4526-82C5-B311AC3F7071"
+    },
+    {
+      "class": "text",
+      "id": "9AF13389-8F65-4604-9769-D49C874F334E"
+    }
+  ],
+  "name": "molecules/Ocean/username",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80304323-51F1-4FFD-94B1-DA7670B2B5CE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "47CCDD8A-ADB7-436E-AAC9-425709AB5553",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F2DFB980-8119-45AD-9F40-E356E4BE4F9B",
+    "guides": [
+    ]
+  }
+}
